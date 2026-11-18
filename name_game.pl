@@ -1,8 +1,6 @@
 % ============================================================
-%  ARTI 401 - Lab 09: I/O and Database
+%  ARTI 401 - Lab 11: I/O and Database
 %  Lab Activity: The "Name Game"
-%  Run with:  ?- start.
-%  Type every choice / letter followed by a full stop, e.g.  2.   h.
 % ============================================================
 
 :- dynamic letter/1.
